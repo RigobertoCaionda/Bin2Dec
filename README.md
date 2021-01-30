@@ -1,0 +1,1 @@
+Binary to decimal converter, you enter a binary number and the software has to convert the number to decimal number.
